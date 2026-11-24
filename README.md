@@ -67,18 +67,14 @@ A compiler implementation exploring the fundamental stages of language processin
 - Backend Development & APIs
 - Building practical AI-powered products
 
----
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-kuma-wat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
 
 ## 🤝 Let's Connect
-
 <p align="center">
   <a href="https://github.com/Aryan-kuma-wat">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -89,7 +85,5 @@ A compiler implementation exploring the fundamental stages of language processin
 </p>
 
 </div>
-
----
 
 > **Build. Experiment. Break things. Learn. Repeat.** 🚀

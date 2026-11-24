@@ -69,22 +69,20 @@ A compiler implementation exploring the fundamental stages of language processin
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-kuma-wat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-kuma-wat&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-kuma-wat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aryan-kuma-wat&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Aryan-kuma-wat?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-kuma-wat&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
 ---
 
 ## 🤝 Let's Connect

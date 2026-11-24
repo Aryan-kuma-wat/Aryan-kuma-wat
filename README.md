@@ -71,24 +71,28 @@ A compiler implementation exploring the fundamental stages of language processin
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-kuma-wat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Aryan-kuma-wat?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-kuma-wat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💻 GitHub: [Aryan-kuma-wat](https://github.com/Aryan-kuma-wat)
-- 🔗 LinkedIn: [Aryan Kumawat](https://www.linkedin.com/in/aryan-kumawat-022911289/)
+<p align="center">
+  <a href="https://github.com/Aryan-kuma-wat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-kumawat-022911289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
